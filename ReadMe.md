@@ -51,4 +51,4 @@ Html & Json Reports will get generated
 2. Install mocha reporter
     mocha --reporter mocha-allure-reporter
 
-## Best Practices
+## Best Practices.....
